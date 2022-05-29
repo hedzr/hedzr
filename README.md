@@ -4,13 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!--
+<!-- -->
 
-[![](https://github-readme-stats.vercel.app/api?username=hedzr&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/hedzr)
+[![](https://github-readme-stats.vercel.app/api?username=hedzr&show_icons=true&hide=issues,contribs&theme=dracula&hide_border=true)](https://github.com/hedzr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&layout=compact&theme=radical)](https://github.com/hedzr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/hedzr)
 
--->
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hedzr&theme=radical)](https://github.com/hedzr)
