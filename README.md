@@ -11,9 +11,9 @@
 [![](https://github-readme-stats.vercel.app/api?username=hedzr&show_icons=true&hide=issues,contribs&theme=dracula&hide_border=true)](https://github.com/hedzr)
 
   </td><td>
-  
+  <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/hedzr)
-
+-->
 </td></tr></table>
 
 <!--
