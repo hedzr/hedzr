@@ -6,7 +6,7 @@
 
 <!-- -->
 
-<table border="0"><tr><td>
+<table><tr><td>
   
 [![](https://github-readme-stats.vercel.app/api?username=hedzr&show_icons=true&hide=issues,contribs&theme=dracula&hide_border=true)](https://github.com/hedzr)
 
