@@ -3,14 +3,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=codeSTACKr"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=dracula" align="right" alt="hedzr's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=codeSTACKr" align="right" alt="hedzr's Stats" />
 </picture>
 
 <div>
