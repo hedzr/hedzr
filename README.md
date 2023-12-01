@@ -20,7 +20,6 @@
   - 🌱 I’m currently learning ..., I'd learned long time, and I'll last it
   - 💞️ I’m looking to collaborate on ...
   - 📫 How to reach me : [my blog](https://hedzr.com/), mail me or t me
-  - Questions? Forget them.
 
 </div>
 
