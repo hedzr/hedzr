@@ -1,6 +1,12 @@
 
+<!--
+<a href="https://github-readme-stats.vercel.app/api?username=hedzr&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&show_icons=true&theme=github_dark_dimmed"><img width="398" alt="Profile Stats" src="assets/stats.svg" style="border: 1px dotted #aaa; padding: 2px; margin: 2px"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,spawn,vaultage,dots,nxvim,vuexy-vuejs-admin-template,vuexy-nuxtjs-admin-template&theme=github_dark_dimmed"><img width="320" alt="Most Used Languages" src="assets/langs.svg" style="border: 1px dotted #aaa; padding: 2px; margin: 2px"></a>
+-->
+
 <!-- -->
 
+<div><!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=codeSTACKr"
@@ -10,8 +16,17 @@
     srcset="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=codeSTACKr" align="right" alt="hedzr's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=codeSTACKr" alt="hedzr's Stats" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech- triot&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
 </picture>
+  -->
+    <img src="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=codeSTACKr" alt="hedzr's Stats" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech- triot&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
+
+</div><div style="clear: both"></div>
+
+<details>
+<summary>_</summary>
 
 <div>
   
@@ -38,3 +53,5 @@
 hedzr/hedzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+</detail>
