@@ -21,12 +21,12 @@
 </picture>
   -->
     <img src="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=codeSTACKr" alt="hedzr's Stats" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech- triot&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&role=owner,collaborator&hide=jupyter%20notebook,javascript,css,scss,html,nix&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
 
 </div><div style="clear: both"></div>
 
 <details>
-<summary>_</summary>
+<summary>Hi, Leo _</summary>
 
 <div>
   
