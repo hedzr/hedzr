@@ -4,7 +4,13 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,spawn,vaultage,dots,nxvim,vuexy-vuejs-admin-template,vuexy-nuxtjs-admin-template&theme=github_dark_dimmed"><img width="320" alt="Most Used Languages" src="assets/langs.svg" style="border: 1px dotted #aaa; padding: 2px; margin: 2px"></a>
 -->
 
-<!-- -->
+<!-- 
+<div>
+  
+  ![Hedzr's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedzr\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+</div>
+-->
 
 <div><!--
 <picture>
