@@ -12,6 +12,12 @@
 </div>
 -->
 
+<div>
+  Blog: https://hedzr.com
+  
+  Docs: https://docs.hedzr.com
+</div>
+
 <div><!--
 <picture>
   <source
