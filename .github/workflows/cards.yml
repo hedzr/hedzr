@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide=contribs&border=none&theme=codeSTACKr" alt="hedzr's Stats" style="border: 1px dotted #aaa; padding: 2px; margin: 2px
+          options: username=${{ github.repository_owner }}&show_icons=true&hide=contribs&border=none&theme=codeSTACKr
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&langs_count=6&role=owner,collaborator&hide=jupyter%20notebook,javascript,css,scss,html,meson,hcl,nix,cmake,shell,batchfile,objective-c,kotlin,ruby,dart,elixir,roff,makefile,jinja,java,python,dockerfile,assembly&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&langs_count=6&role=owner,collaborator&hide=jupyter%20notebook,javascript,css,scss,html,meson,hcl,nix,cmake,shell,batchfile,objective-c,kotlin,ruby,dart,elixir,roff,makefile,jinja,java,python,dockerfile,assembly&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&hide_border=true&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
