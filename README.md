@@ -74,4 +74,50 @@ hedzr/hedzr is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
+```typecript
+const hedzr = {
+  code: [
+      "Ask-Lang",
+      "C++", "Golang", "Rust", "Zig", "C#", "Kotlin",
+      "Shell",
+      "TypeScript", "React", "NextJS", 
+      "Python", "Javascript", "Java",
+  ],
+  askMeAbout: [
+      "Architecture", "Compiler dev", "System dev",
+      "Backend dev", "DevOps", "UI/UX", "sys admin",
+  ],
+  technologies: {
+    ml: [
+      "Pytorch",
+      "Tensorflow",
+      "Scikitlearn",
+      "Pandas",
+      "Polars",
+      "Numba",
+      "Numpy",
+      "Cupy",
+      "Dask",
+    ],
+    frontEnd: {
+      js: ["React", "Next.js", "Svelte/Sveltekit"],
+      css: ["Tailwind"],
+      uiLibraries: ["Material UI", "Ant Design", "Skeleton"],
+    },
+    backEnd: {
+      js: ["Node", "Express", "NestJS"],
+      python: ["Flask", "FastAPI"],
+      rust: ["Axum"],
+    },
+    devOps: ["Ansible", "Docker🐳", "CI/CD", "Nginx", "GitHub Actions", "Caddy", "Pulumi"],
+    cloudServices: {
+      aws: ["AWS Beanstalk", "EC2", "S3", "RDS"],
+      gcp: ["App Engine", "Compute Engine", "GKE", "GCS"],
+    },
+    databases: ["PostgreSQL", "SQLite", "redis", "MongoDB"],
+    misc: ["Socket.IO", "REST APIs", "WebSockets"],
+  },
+};
+```
+
 </detail>
