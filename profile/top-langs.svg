@@ -219,7 +219,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#fcb32c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        MDX 6.54%
+        MDX 6.55%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
