@@ -12,6 +12,8 @@
 </div>
 -->
 
+<div><i>I am the day soon to be born.</i></div>
+
 <div>
   Blog: https://hedzr.com
   
@@ -39,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&role=owner,collaborator&hide=jupyter%20notebook,javascript,css,scss,html,meson,hcl,nix,cmake,shell,batchfile,objective-c,kotlin,ruby,dart,elixir,roff,makefile,jinja,java,python,dockerfile,assembly&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&layout=compact&theme=dracula&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
   -->
 
-  ![Stats](./profile/stats.svg)
+  <!-- ![Stats](./profile/stats.svg) -->
   ![Top Languages](./profile/top-langs.svg)
   <!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
