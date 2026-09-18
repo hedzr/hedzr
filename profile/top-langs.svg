@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="133.07"
+          width="133.1"
           height="8"
           fill="#00ADD8"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="133.07"
+          x="133.1"
           y="0"
-          width="39.2"
+          width="39.19"
           height="8"
           fill="#f34b7d"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="172.26999999999998"
+          x="172.29"
           y="0"
-          width="28.66"
+          width="28.65"
           height="8"
           fill="#3178c6"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="200.92999999999998"
+          x="200.94"
           y="0"
-          width="28.49"
+          width="28.48"
           height="8"
           fill="#7355dd"
         />
@@ -170,7 +170,7 @@
           data-testid="lang-progress"
           x="229.42"
           y="0"
-          width="16.36"
+          width="16.35"
           height="8"
           fill="#fcb32c"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.77999999999997"
+          x="245.76999999999998"
           y="0"
           width="14.219999999999999"
           height="8"
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go 53.23%
+        Go 53.24%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -212,7 +212,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 11.40%
+        C# 11.39%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
