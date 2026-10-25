@@ -39,12 +39,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hedzr&hide=contribs&show_icons=true&border=none&theme=codeSTACKr" alt="hedzr's Stats" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedzr&role=owner,collaborator&hide=jupyter%20notebook,javascript,css,scss,html,meson,hcl,nix,cmake,shell,batchfile,objective-c,kotlin,ruby,dart,elixir,roff,makefile,jinja,java,python,dockerfile,assembly&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&layout=compact&theme=dracula&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
+
+  theme: merko, dracula
   -->
 
+  [![hedzr's GitHub stats](https://github-stats-extended.vercel.app/api?username=hedzr&theme=dracula&show_icons=true&hide_rank=true&hide_border=true&layout=compact&hide=contribs)](https://github.com/hedzr)
+
   <!-- ![Stats](./profile/stats.svg) -->
-  ![Top Languages](./profile/top-langs.svg)
+  <!-- ![Top Languages](./profile/top-langs.svg) -->
   <!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hedzr&role=owner,collaborator&hide=jupyter%20notebook,javascript,css,scss,html,meson,hcl,nix,cmake,shell,batchfile,objective-c,kotlin,ruby,dart,elixir,roff,makefile,jinja,java,python,dockerfile,assembly&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&layout=compact&theme=dracula&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
+  
 </div><div style="clear: both"></div>
 
 <details>
