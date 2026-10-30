@@ -16,7 +16,7 @@
 
 
 | Blog: | <https://hedzr.com> |
-|--:|:--|
+|---|---|
 | Docs: | <https://docs.hedzr.com> |
 
 
