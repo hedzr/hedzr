@@ -15,9 +15,8 @@
 <div><i>I am the day soon to be born.</i></div>
 
 <div>
-  Blog: https://hedzr.com
-  
-  Docs: https://docs.hedzr.com
+  <div><span style="width: 48pt; margin: 0 4pt; text-align: right">Blog:</span><span>https://hedzr.com</span></div>
+  <div><span style="width: 48pt; margin: 0 4pt; text-align: right">Docs:</span><span>https://docs.hedzr.com</span></div>
 </div>
 
 <div><!--
@@ -42,15 +41,18 @@
 
   theme: merko, dracula
   -->
-
-  [![hedzr's GitHub stats](https://github-stats-extended.vercel.app/api?username=hedzr&theme=dracula&show_icons=true&hide_rank=true&hide_border=true&layout=compact&hide=contribs)](https://github.com/hedzr)
-
   <!-- ![Stats](./profile/stats.svg) -->
   <!-- ![Top Languages](./profile/top-langs.svg) -->
   <!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
+| [![hedzr's GitHub stats](https://github-stats-extended.vercel.app/api?username=hedzr&theme=dracula&show_icons=true&hide_rank=true&hide_border=true&layout=compact&hide=contribs)](https://github.com/hedzr) | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hedzr&role=owner,collaborator&hide=jupyter%20notebook,javascript,css,scss,html,meson,hcl,nix,cmake,shell,batchfile,objective-c,kotlin,ruby,dart,elixir,roff,makefile,jinja,java,python,dockerfile,assembly&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&layout=compact&theme=dracula&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" /> |
+|---|---|
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hedzr&role=owner,collaborator&hide=jupyter%20notebook,javascript,css,scss,html,meson,hcl,nix,cmake,shell,batchfile,objective-c,kotlin,ruby,dart,elixir,roff,makefile,jinja,java,python,dockerfile,assembly&exclude_repo=adminLTE-app,notes-vuepress,cmake-hello,tricentech-triot&layout=compact&theme=dracula&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="border: 1px dotted #aaa; padding: 2px; margin: 2px" />
+  
+
+
+
+  
   
 </div><div style="clear: both"></div>
 
