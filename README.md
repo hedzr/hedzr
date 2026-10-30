@@ -14,10 +14,11 @@
 
 <div><i>I am the day soon to be born.</i></div>
 
-<div>
-  <div><span style="width: 48pt; margin: 0 4pt; text-align: right">Blog:</span><span>https://hedzr.com</span></div>
-  <div><span style="width: 48pt; margin: 0 4pt; text-align: right">Docs:</span><span>https://docs.hedzr.com</span></div>
-</div>
+
+| Blog: | <https://hedzr.com> |
+|--:|:--|
+| Docs: | <https://docs.hedzr.com> |
+
 
 <div><!--
 <picture>
